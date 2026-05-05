@@ -40,18 +40,6 @@ No frameworks or build steps needed – just pure HTML, CSS, and JavaScript.
 └── assets/           # Images and icons (optional)
 ```
 
-## Contributing
-
-Pull requests are welcome!  
-Whether you want to add features, optimize the UI, or improve documentation, every contribution matters.
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature/yourFeature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/yourFeature`)
-5. Open a Pull Request
-
-## License
 
 This project is open-source. [MIT License](LICENSE)
 
